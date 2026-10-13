@@ -45,19 +45,10 @@ The evaluation environment includes secure configurations and intentionally misc
 
  6. Project Screenshots
 
- Application Interface
+ Application Interface (https://nbstraininacademys.vercel.app/)
 
-![Application interface](screenshots/application-home.png)
 
- Scan Results
 
-![Scan results](screenshots/scan-results.png)
-
-Process Flowchart
-
-![Process flowchart](screenshots/process-flowchart.png)
-
-*Replace the example image paths above with the actual filenames and locations of your uploaded screenshots.*
 
  7. Running the Project
 
