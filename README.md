@@ -45,7 +45,7 @@ The evaluation environment includes secure configurations and intentionally misc
 
  6. Project Screenshots
 
- Application Interface (https://nbstraininacademys.vercel.app/)
+ Application Interface (https://capstone-1-two.vercel.app/)
 
 
 
